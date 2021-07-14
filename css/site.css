@@ -1,0 +1,10 @@
+main>.container {
+    padding: 60px 15px 0;
+}
+.bgHome{
+    background: url(/img/GridBG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
